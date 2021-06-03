@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a freelance frontend reactjs webdeveloper
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: Linked in:  """""
 <!--
 **kaushikkotegar/kaushikkotegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
