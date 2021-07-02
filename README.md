@@ -1,7 +1,7 @@
 ### Hi there 👋, i'm koushik
 
 - 🔭 I’m currently working as a freelance frontend reactjs webdeveloper
--🤔 Worked As Intern FrontEnd Developer At React Trends.
+- 🤔 Worked As Intern FrontEnd Developer At React Trends.
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Web Develpment
 - - ⚡ Fun fact: My name is  kaushik and koushik 😄 
