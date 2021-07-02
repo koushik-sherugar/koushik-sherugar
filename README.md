@@ -4,7 +4,8 @@
 - 😄 Worked As Intern FrontEnd Developer At React Trends.
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Web Develpment
-- 📫 Reach me at : LinkedIn: https://www.linkedin.com/in/koushik-sherugar-7a45a7211/       E-mail: kaushiksherugar2001@gmail.com
+- 📫 Reach me at : LinkedIn: https://www.linkedin.com/in/koushik-sherugar-7a45a7211/     
+                    E-mail:   kaushiksherugar2001@gmail.com
 <!--
 **kaushikkotegar/kaushikkotegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
