@@ -1,9 +1,10 @@
 ### Hi there 👋, i'm koushik
 
 - 🔭 I’m currently working as a freelance frontend reactjs webdeveloper
-- 😄 Worked As Intern FrontEnd Developer At React Trends.
+-🤔 Worked As Intern FrontEnd Developer At React Trends.
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Web Develpment
+- - ⚡ Fun fact: My name is  kaushik and koushik 😄 
 - 📫 Reach me at : LinkedIn: https://www.linkedin.com/in/koushik-sherugar-7a45a7211/     
                     E-mail:   kaushiksherugar2001@gmail.com
 <!--
