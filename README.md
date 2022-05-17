@@ -3,14 +3,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b> Koushik Sherugar </b></h1>
-<h3 align="center"><i>A passionate  Reactjs Developer from India.</i></h3>
+<h3 align="center"><i>A passionate fullstack Developer from India.</i></h3>
 
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[project name ](https://link paste koushikapp/)** -->
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT.**
+- 🌱 I’m always learning **new technologies.**
 
 - 👯 Looking to collaborate on **OpenSource Projects**
 
@@ -18,7 +18,7 @@
 
 - 📫 Reach me at :  **kaushiksherugar2001@gmail.com**
 
-- ⚡ Fun fact  : **Coding Bugs were NOT named after an actual bug!..**
+<!-- - ⚡ Fun fact  : **..** -->
 
 <br/>
 
