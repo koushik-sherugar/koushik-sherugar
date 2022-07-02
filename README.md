@@ -2,7 +2,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="10px" width="10px">, I'm <b> Koushik Sherugar </b></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px">, I'm <b> Koushik Sherugar </b></h1>
 <h3 align="center"><i>A passionate fullstack Developer from India.</i></h3>
 
 
