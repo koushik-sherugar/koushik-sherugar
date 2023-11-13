@@ -3,7 +3,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px">, I'm <b> Koushik Sherugar </b></h1>
-<h3 align="center"><i>A passionate fullstack Developer from India.</i></h3>
+<h3 align="center"><i>A passionate fullstack Developer.</i></h3>
 
 
 ## 🙋‍♂️ About Me
@@ -90,21 +90,3 @@
 
 
 
-
-
-
-
-<!--
-**kaushikkotegar/kaushikkotegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-->
