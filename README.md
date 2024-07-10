@@ -18,7 +18,9 @@
 <!-- About Section -->
 <!-- <details> -->
   <!-- <summary> -->
-<b>👤 About</b>
+
+## 🙋‍♂️ About Me
+
   <!-- </summary> -->
 <p>
     <img align="top" width="100%" src="./assets/banner.png" alt="GalaxyDev" />
@@ -127,6 +129,16 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 </p>
 </details>
 -->
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/koushik-sherugar/github-readme-stats"><img alt="Koushik Sherugar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=koushik-sherugar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/koushik-sherugar/github-readme-stats"><img alt="koushik sherugar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-sherugar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
 <!-- Snek -->   
 <p align="center">
 <a href="https://gitstar-ranking.com/CodeHole7" title="Snek 🐍"><img width="500" src="./github-contribution-grid-snake.svg" /></a>
@@ -237,6 +249,7 @@ new read me
     </a>
 </p> -->
 
+
 ## 📊 My Github Stats
 
   <br/>
@@ -244,30 +257,4 @@ new read me
   <a href="https://github.com/koushik-sherugar/github-readme-stats"><img alt="koushik sherugar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-sherugar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-<!-- 
-<a href="https://github.com/koushik-sherugar/github-readme-activity-graph"><img alt="Koushik Sherugar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=koushik-sherugar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="center">
-
-<a href = "https://www.linkedin.com/in/koushik-sherugar-7a45a7211/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/kaushik_sherugar_007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
-</p>
-<!-- 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
 
