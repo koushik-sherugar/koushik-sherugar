@@ -24,7 +24,7 @@
 
   <!-- </summary> -->
 <p>
-    <img align="top" width="100%" src="./assets/banner.png" alt="GalaxyDev" />
+<!--     <img align="top" width="100%" src="./assets/banner.png" alt="GalaxyDev" /> -->
       
 <!-- <blockquote> -->
 
