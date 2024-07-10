@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=galaxydeve&label=Profile%20views&color=0e75b6&style=flat" alt="CodeHole7" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=koushik-sherugar&label=Profile%20views&color=0e75b6&style=flat" alt="koushik-sherugar" /> </p>
 <!-- <h1 align="center">
     Hi <img src='./assets/wave.gif' height='26' alt='there'> there
 </h1>
@@ -6,7 +6,8 @@
 <!-- ![](https://komarev.com/ghpvc/?username=CodeHole7&label=PROFILE+VIEWS) -->
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarthak-16xo&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-16xo" /> </p>
+
+
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px">, I'm <b> Koushik Sherugar </b></h1>
