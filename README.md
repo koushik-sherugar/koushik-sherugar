@@ -4,6 +4,11 @@
 </h1>
  -->
 <!-- ![](https://komarev.com/ghpvc/?username=CodeHole7&label=PROFILE+VIEWS) -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px">, I'm <b> Koushik Sherugar </b></h1>
+<h3 align="center"><i>A passionate fullstack Developer.</i></h3>
+
 
 <p align='center' style='margin: 16px 4px 8px; min-height: 100px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer." />
