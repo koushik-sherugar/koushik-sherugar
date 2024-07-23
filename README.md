@@ -28,7 +28,7 @@
       
 <!-- <blockquote> -->
 
-✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Web/Mobile developer with over 8 years of experience.
+✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Web/Mobile developer with over 2 years of experience in building products for startups.
 
 I’m industrious, hard-working, an excellent team worker and collaborator, and I can easily prioritize tasks to ensure my employer’s goals are always achieved. 
 
