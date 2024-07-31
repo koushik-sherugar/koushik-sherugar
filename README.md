@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=koushik-sherugar&label=Profile%20views&color=0e75b6&style=flat" alt="koushik-sherugar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=galaxydeve&label=Profile%20views&color=0e75b6&style=flat" alt="koushik-sherugar" /> </p>
+
+
 <!-- <h1 align="center">
     Hi <img src='./assets/wave.gif' height='26' alt='there'> there
 </h1>
