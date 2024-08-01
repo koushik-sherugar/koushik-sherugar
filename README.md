@@ -65,10 +65,8 @@ When I'm not at the keyboard, I like trekking, photography and hanging out with 
 
 
 <!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-</details>
 
+  <summary><b>📊 Metrics</b></summary>
 
 <h2 align="center">
   <a>
@@ -109,6 +107,9 @@ When I'm not at the keyboard, I like trekking, photography and hanging out with 
 
 
 
+  <br/>
+  <br/>
+
 <h1>
   Connect With Me 🤝
 </h1>
@@ -121,10 +122,10 @@ When I'm not at the keyboard, I like trekking, photography and hanging out with 
   <a href="https://www.instagram.com/kaushik_sherugar_007/" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></code>
   </a>
-  <a href="https://discord.gg/yHHm8u4f" target="_blank" style='margin: 30px 10px;'>
+  <a href="https://discord.gg/yH8u4f" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="https://img.icons8.com/fluent/48/000000/discord"/></code>
   </a>
-  <a href="mailto:galaxyaio@hotmail.com" target="_blank" style='margin: 30px 10px;'>
+  <a href="mailto:koushiksherugar.contact@gmail.com" target="_blank" style='margin: 30px 10px;'>
     <code><img height="60" width="60" src="https://img.icons8.com/fluent/48/000000/mail"/></code>
   </a>
 
