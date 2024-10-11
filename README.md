@@ -21,13 +21,13 @@
   <!-- </summary> -->
 <p>
 
-✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Web/Mobile developer with  over 2 years of experience in building AI based products for startups.
+✅ HIGH skilled, 🚀HIGH speed, and 🌟HIGH motivated Web/Mobile developer with around 3 years of experience building products for startups and enterprises.
 
 I have experience working on time sensitive projects, dealing with difficult challenges, and communicating with customers and clients.
 
 I'm the type of person who always goes above and beyond what is expected, and I will willingly carry out duties outside of my job description.
 
-When I'm not at the keyboard, I like trekking, photography and hanging out with friends.
+When I'm not at the keyboard, I like trekking, photography, and hanging out with friends.
 
   
 </p>
