@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=galaxydeve&label=Profile%20views&color=0e75b6&style=flat" alt="koushik-sherugar" /> </p>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="175px"/></a>
 
 
 
