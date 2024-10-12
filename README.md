@@ -65,7 +65,7 @@ When I'm not at the keyboard, I like trekking, photography, and hanging out with
 
 
 <!-- Metrics -->
-
+<br>
   <summary><b>📊 Metrics</b></summary>
 
 <h2 align="center">
