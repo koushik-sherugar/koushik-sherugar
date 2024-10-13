@@ -89,14 +89,16 @@ When I'm not at the keyboard, I like trekking, photography, and hanging out with
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=koushik-sherugar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=koushik-sherugar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+## 📊 My Github Stats
+
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-sherugar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+    <a href="https://github.com/koushik-sherugar/github-readme-stats"><img alt="Koushik Sherugar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=koushik-sherugar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/koushik-sherugar/github-readme-stats"><img alt="koushik sherugar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-sherugar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
 
 <br/><br/>
 
@@ -122,16 +124,6 @@ When I'm not at the keyboard, I like trekking, photography, and hanging out with
 </p>
 </details>
 -->
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/koushik-sherugar/github-readme-stats"><img alt="Koushik Sherugar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=koushik-sherugar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/koushik-sherugar/github-readme-stats"><img alt="koushik sherugar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-sherugar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 
   <br/>
   <br/>
