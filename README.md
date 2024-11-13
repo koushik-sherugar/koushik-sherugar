@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px">, I'm  Koushik Sherugar </h1>
 
-<h3 align="center"><i>A passionate fullstack Developer.</i></h3>
+<p align="center"><i>A passionate Fullstack Developer.</i></p>
 
 
 
